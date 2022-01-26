@@ -39,4 +39,4 @@ def failsalve(f:str,l:list):
         fail=open(f,'a')
         fail.write(rida+'\n')
         fail.close()
-        m
+      
